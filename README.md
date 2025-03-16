@@ -8,3 +8,4 @@
 | AZ-204        | [Projects](az-204/readme.md) |
 | AZ-305        | [Projects](az-305/readme.md) |
 | AZ-400        | [Projects](az-400/README.md) |
+| AI-102        | [Projects](ai-102/README.md) |
